@@ -1,0 +1,1 @@
+Within this project I will be covering the 30 days of Python training regiment from GitHub. I will then build a project post training with the tools that I learned throughout. 
